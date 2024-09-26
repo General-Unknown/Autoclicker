@@ -1,0 +1,3 @@
+- Simple to use atuoclicker
+- Safe, no viruses as this was made using the "python" programming language
+- Enjoy autclicking in ur fav games/websites
